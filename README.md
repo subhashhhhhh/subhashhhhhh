@@ -21,3 +21,7 @@
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"></code>
+
+##
+
+![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhashhhhhh&hide=prs,issues&show_icons=true&theme=dark)
