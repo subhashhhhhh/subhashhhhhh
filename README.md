@@ -7,7 +7,6 @@
 
 - A Computer Engineering Student at Thapar University, Patiala.
 - Loves to explore new technologies
-- Check out my new project [SimpleSchedule](https://schedule.subhashh.tech)
 - Read my [blog](https://subhashh.netlify.app)
 
 ## Languages and Tools
