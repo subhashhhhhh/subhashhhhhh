@@ -7,7 +7,7 @@
 
 - A Computer Engineering Student at Thapar University, Patiala.
 - Loves to explore new technologies
-- Read my [blog](https://subhashh.netlify.app)
+- Read my [blog](https://subhashh.tech)
 
 ## Languages and Tools
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c-language"></code>
