@@ -7,6 +7,7 @@
 
 - A Computer Engineering Student at Thapar University, Patiala.
 - Loves to explore new technologies
+- Building [Fastlytics](https://fastlytics.app)
 - Read my [blog](https://subhashh.tech)
 
 ## Languages and Tools
