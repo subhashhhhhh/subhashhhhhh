@@ -3,23 +3,23 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/subhashgottumukkala)
 [![Buymeacoffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/subhashh)
+[![Email](https://img.shields.io/badge/Email-Me-purple?style=for-the-badge&logo=gmail)](mailto:subhashgottumukkala17@gmail.com)
+
+
 ## About me
 
 - A Computer Engineering Student at Thapar University, Patiala.
-- Loves to explore new technologies
-- Building [Fastlytics](https://fastlytics.app)
+- Building [Fastlytics](https://fastlytics.app) & [Brainiac AI](https://trybrainiac.app)
 - Read my [blog](https://subhashh.tech)
 
 ## Languages and Tools
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c-language"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" ></code>
-
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" /></code>
           
 
 ##
