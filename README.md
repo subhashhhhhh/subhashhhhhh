@@ -9,7 +9,7 @@
 ## About me
 
 - A Computer Engineering Student at Thapar University, Patiala.
-- Building [Fastlytics](https://fastlytics.app) & [Brainiac AI](https://trybrainiac.app)
+- Building [Fastlytics](https://fastlytics.app)
 - Read my [blog](https://subhashh.tech)
 
 ## Languages and Tools
