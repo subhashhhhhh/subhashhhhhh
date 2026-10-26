@@ -33,4 +33,4 @@ Software engineer. Here's what I'm building:
 
 ## Stats
 
-![subhashhhhhh's Stats](https://github-readme-stats.vercel.app/api?username=subhashhhhhh&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![subhashhhhhh's Stats](https://github-stats-extended.vercel.app/api?username=subhashhhhhh&theme=dark&show_icons=true&hide_border=true&count_private=true)
